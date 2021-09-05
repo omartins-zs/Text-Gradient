@@ -1,12 +1,12 @@
-# Button Neon
+# Text Gradient
 
 </p>
 <h1 align="center">
-    <img alt="Button Neon" title="" src="./assets/img/button-neon.gif" />
+    <img alt="Text Gradient" title="" src="./assets/img/text-gradient.png" />
 </h1>
 
 <h4 align="center"> 
- 🟥🔘🔻 Button Neon 🔻🔘🟥
+ 📝 Text Gradient 
 </h4>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 💻 Sobre o projeto
 
-🔘🔻 Button Neon
+📝 Text Gradient 📝
 
 ## 🛠 Tecnologias
 
