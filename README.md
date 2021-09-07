@@ -1,4 +1,7 @@
-# Text Gradient
+  <h1 align="center">Text Gradient</h1>
+
+
+
 
 </p>
 <h1 align="center">
